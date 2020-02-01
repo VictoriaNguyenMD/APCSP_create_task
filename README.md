@@ -23,27 +23,27 @@ Students will develop a program on a topic that interests them or solves a probl
 	Hours 11-12: preapre to submit the video, response, and code
 	```
 
-** What is a good algorithm? **
+**What is a good algorithm?**
 1. Original (you wrote it, not your partner)
 2. Mathematical/Logical Concepts
 3. A parent and two children (breakingl larger problems into sub tasks)
 4. Talking about your algorithm 
 
-** What is a good abstraction? **
+**What is a good abstraction?**
 Abstration manages complexity. Programming abstractions make it easier to write complex programs.
 1. Original (you wrote it, not your partner)
 2. Functions manage complexity (gets called multiple times, parameter)
 
-** Program Check-In Progress **
+**Program Check-In Progress**
 1. Program purpose
 2. Development process overall 
 3. Identify main algorithm
 4. Your developed abstraction 
 
 ## Additional Links
-[APCSP Portfolio Instructions] (https://drive.google.com/file/d/1zlmKvUxOEjHd7ljeljaJ20hch_WhVnG6/view)
+[APCSP Portfolio Instructions](https://drive.google.com/file/d/1zlmKvUxOEjHd7ljeljaJ20hch_WhVnG6/view)
 
-[Create Survival Guide] (https://drive.google.com/file/d/1i5xVDuTDekpYoMKyJksr_aKE0MpfDLRr/view)
+[Create Survival Guide](https://drive.google.com/file/d/1i5xVDuTDekpYoMKyJksr_aKE0MpfDLRr/view)
 
-[Scoring Rubric] (https://drive.google.com/file/d/1ZEZQpuVjIGdtOsrR9En5xuJiBMLymMKr/view)
+[Scoring Rubric](https://drive.google.com/file/d/1ZEZQpuVjIGdtOsrR9En5xuJiBMLymMKr/view)
 
