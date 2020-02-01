@@ -1,4 +1,4 @@
-# APCSP_create_task <img src="https://i.ibb.co/37h919M/Screen-Shot-2020-02-01-at-2-16-47-PM.png" alt="APCSP: Create Task" width="50" height="50">
+# APCSP_create_task 
 APCSP Track: Create Task
 
 ## Introduction
