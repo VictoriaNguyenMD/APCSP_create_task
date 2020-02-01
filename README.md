@@ -40,7 +40,7 @@ Abstration manages complexity. Programming abstractions make it easier to write 
 3. Identify main algorithm
 4. Your developed abstraction 
 
-## Additional Links
+## Additional Links 
 [APCSP Portfolio Instructions](https://drive.google.com/file/d/1zlmKvUxOEjHd7ljeljaJ20hch_WhVnG6/view)
 
 [Create Survival Guide](https://drive.google.com/file/d/1i5xVDuTDekpYoMKyJksr_aKE0MpfDLRr/view)
