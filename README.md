@@ -30,7 +30,8 @@ Students will develop a program on a topic that interests them or solves a probl
 4. Talking about your algorithm 
 
 **What is a good abstraction?**
-Abstration manages complexity. Programming abstractions make it easier to write complex programs.
+
+Abstraction manages complexity. Programming abstractions make it easier to write complex programs.
 1. Original (you wrote it, not your partner)
 2. Functions manage complexity (gets called multiple times, parameter)
 
